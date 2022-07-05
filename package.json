@@ -24,6 +24,6 @@
     "webpack-dev-server": "^4.9.3"
   },
   "dependencies": {
-    "js-code-renderer": "^1.0.3"
+    "js-code-renderer": "^1.0.4"
   }
 }
