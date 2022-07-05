@@ -13,6 +13,7 @@ renderBtn.addEventListener('click', function() {
     doRender(codeArea.value) 
 })
 
+debugger;
 //展示
 function doRender(code) {
     if (!code) return;
